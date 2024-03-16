@@ -41,7 +41,7 @@ const Welcome = () => {
             Send Crypto <br /> across the world
           </h1>
           <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
-            Explore the crypto world. Buy and sell cryptocurrencies easily on Krypto.
+            Explore the crypto world. Buy and sell cryptocurrencies easily on Payment.
           </p>
           {!currentAccount && (
             <button
@@ -67,7 +67,7 @@ const Welcome = () => {
             <div className={`sm:rounded-bl-2xl ${companyCommonStyles}`}>
               Web 3.0
             </div>
-            <div className={companyCommonStyles}>Low Fees</div>
+            <div className={companyCommonStyles}>Verb Wire</div>
             <div className={`rounded-br-2xl ${companyCommonStyles}`}>
               Blockchain
             </div>
